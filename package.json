@@ -1,0 +1,9 @@
+var codeCompile = function(){
+    return JSON.stringify({
+        "name": "{npm包的名字}",
+        "version": packageVersion||"1.0.0",
+        "description": "",
+        "author": "",
+        "license": "ISC"
+      });
+}

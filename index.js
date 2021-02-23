@@ -1,3 +1,3 @@
-var var codeCompile = function(){
+var codeCompile = function(){
     return 'hello world';
 }
